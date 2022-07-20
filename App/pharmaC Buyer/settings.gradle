@@ -1,0 +1,2 @@
+rootProject.name='PharmaC Buyer'
+include ':app'
